@@ -54,7 +54,7 @@ A small library that wraps the networking functions in Windows and Linux to allo
 ### Getting Started
 If you haven't already installed Xela Networking, make sure you read the [Installation](#installation) instructions to find out how.
 
-The [Documentation](doc) contains information on every function in Xela Networking you might need to use while writing a program.
+The [Documentation](Doc.md) contains information on every function in Xela Networking you might need to use while writing a program.
 
 There's also some [sample code](sample) showing some of the features of the library
 
