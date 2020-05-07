@@ -1,0 +1,12 @@
+#compile
+make
+make clean
+
+#move libxelanetworking.so to library folder
+mv libxelanetworking.so /usr/lib/
+
+#Create directories for header files
+mkdir -p /usr/include/xela/networking/
+
+#Move header files
+cp Headers/*.h /usr/include/xela/networking/
